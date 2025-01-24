@@ -31,4 +31,4 @@ E.g. Medicine capsule
 </ol>
 
 ## Three important components of JAVA
-![java-components] (https://github.com/ramesh4579/Java-Concepts/blob/main/temp1.png?raw=true)
+![java-components](https://github.com/ramesh4579/Java-Concepts/blob/main/temp1.png?raw=true)
