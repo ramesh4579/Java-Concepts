@@ -23,3 +23,11 @@ E.g. Medicine capsule
 <li> <strong>Composition: </strong> Strong relationship: destroying one destroys the other too. </li>
 </ol>
 </ol>
+
+<ol>
+
+<li> Java is a platform independent high level and Object-Oriented Programming language. </li>
+<li> <strong> WORA </strong> : Work Once Run Anywhere. </li>
+</ol>
+
+## Three important components of JAVA
