@@ -24,11 +24,54 @@ E.g. Medicine capsule
 </ol>
 </ol>
 
-<ol>
-
+<ul>
 <li> Java is a platform independent high level and Object-Oriented Programming language. </li>
 <li> <strong> WORA </strong> : Work Once Run Anywhere. </li>
-</ol>
+</ul>
 
 ## Three important components of JAVA
-![java-components](https://github.com/ramesh4579/Java-Concepts/blob/main/temp1.png?raw=true)
+![java-components](https://github.com/ramesh4579/Java-Concepts/blob/main/temp1.png)
+
+## Three specification of Java libraries
+<ol>
+<li> <strong> JSE </strong>: Java Standard Edition (Core Java)</li>
+<li> <strong> JEE </strong>: Jakarta Enterprise Edition</li>
+<li> <strong> JME </strong>: Java Mobile Edition</li>
+</ol>
+
+**Interview Question**
+1. Why we can have only 1 public class in a java file and name of the class and filename matches.
+This is because JVM needs to call public main method of a public class to execute java program, if suppose there can be
+multiple public java classes within the same file JVM will need to scan all those files to get to main file, therefore java put
+this restriction to have only 1 public class in a java file.
+
+## Data types
+Four types of primitive data types
+<ol>
+<li> Integral Numbers</li>
+<ol>
+<li>byte</li>
+<li>short</li>
+<li>int</li>
+<li>long</li>
+</ol>
+<li> Decimal Numbers</li>
+<ol>
+<li> float </li>
+<li> double </li>
+</ol>
+<li> char </li>
+<li> boolean </li>
+</ol>
+
+<ul>
+<li> Widening (Implicit, Automatic) conversions </li>
+<li> Narrowing (Explicit) conversion </li>
+<li> Compound assignment operator does implicit conversion </li>
+<li> Increment operator has higher precedence than any operator</li>
+</ul>
+
+## Bitwise Operators
+<ul>
+<li> Bitwise operators can be applied to byte, short, int and long data types </li>
+</ul>
