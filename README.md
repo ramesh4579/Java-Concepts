@@ -75,3 +75,13 @@ Four types of primitive data types
 <ul>
 <li> Bitwise operators can be applied to byte, short, int and long data types </li>
 </ul>
+
+<ol>
+<li> And operator (&) </li>
+<li> Or operator (|) </li>
+<li> Xor operator (^) </li>
+<li> Not operator (~) </li>
+<li> Left Shift operator (<<) </li>
+<li> Right Shift operator (>>) </li>
+<li> Unsigned Right Shift operator (>>>): replaces left most bit with zeros </li>
+</ol>
