@@ -85,3 +85,7 @@ Four types of primitive data types
 <li> Right Shift operator (>>) </li>
 <li> Unsigned Right Shift operator (>>>): replaces left most bit with zeros </li>
 </ol>
+
+<ul>
+<li> <strong> Jagged Array:  </strong>  Array of array of different lengths.</li>
+</ul>
