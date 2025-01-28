@@ -89,3 +89,8 @@ Four types of primitive data types
 <ul>
 <li> <strong> Jagged Array:  </strong>  Array of array of different lengths.</li>
 </ul>
+
+<ul>
+<li> <strong> Upcasting:  </strong>  Lower hierarchy object is referenced by upper hierarchy object reference.</li>
+</ul>
+
