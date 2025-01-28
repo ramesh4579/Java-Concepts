@@ -92,5 +92,6 @@ Four types of primitive data types
 
 <ul>
 <li> <strong> Upcasting:  </strong>  Lower hierarchy object is referenced by upper hierarchy object reference.</li>
+  <li> <strong> Downcasting:  </strong>  You can do excplicity.</li>
 </ul>
 
