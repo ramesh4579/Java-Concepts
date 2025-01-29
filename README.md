@@ -106,3 +106,10 @@ Four types of primitive data types
 | Subclass (same package) | No | Yes | Yes | Yes |
 | Subclass (different package) | No | No | Yes | Yes |
 | Different Package (non-subclass) | No | No | No | Yes |
+
+## Static Keyword
+
+<ul>
+<li> It can be applied to variables, methods, blocks and nested classes. </li>
+<li> Used for memory management. </li>
+</ul>
