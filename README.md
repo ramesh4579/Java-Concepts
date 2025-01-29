@@ -95,3 +95,7 @@ Four types of primitive data types
   <li> <strong> Downcasting:  </strong>  You can do excplicity.</li>
 </ul>
 
+<ul>
+<li> Class can have only public or default access modifier.</li>
+</ul>
+
