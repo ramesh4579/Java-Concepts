@@ -122,3 +122,10 @@ Four types of primitive data types
 <li> Constructors cannot be final or overidden. </li>
 </ul>
 
+## Interfaces
+<ul>
+<li> Starting Java8 Interfaces can have static and default methods. </li>
+<li> If all methods of a class are static we can define as interface. Can be used to provide some info. </li>
+<li> Default implementation of a function can be done using default method. You can add it to interface without breaking multiple implementation classes. </li>
+<li> this can be accessed inside default method, can be accessed using implementation class reference. </li>
+</ul>
