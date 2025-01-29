@@ -100,7 +100,7 @@ Four types of primitive data types
 </ul>
 
 | Context/Access Modifier | private | default (no modifier) | protected | public |
-|  | --- |
+| --- | --- |
 | Same class | Yes | Yes | Yes | Yes |
 | Same Package | No | Yes | Yes | Yes |
 | Subclass (same package) | No | Yes | Yes | Yes |
