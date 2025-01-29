@@ -112,4 +112,13 @@ Four types of primitive data types
 <ul>
 <li> It can be applied to variables, methods, blocks and nested classes. </li>
 <li> Used for memory management. </li>
+<li> Non static references cannot be called directly inside static. </li>
+<li> this and super cannot be used inside static. </li>
+<li> Static variables are initialized before object instances. </li>
+<li> Static blocks are executed first after class loading. Used for static initialization. </li>
 </ul>
+
+<ul>
+<li> Constructors cannot be final or overidden. </li>
+</ul>
+
