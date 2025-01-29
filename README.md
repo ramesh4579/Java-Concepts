@@ -99,3 +99,10 @@ Four types of primitive data types
 <li> Class can have only public or default access modifier.</li>
 </ul>
 
+| Context/Access Modifier | private | default (no modifier) | protected | public |
+|  | --- |
+| Same class | Yes | Yes | Yes | Yes |
+| Same Package | No | Yes | Yes | Yes |
+| Subclass (same package) | No | Yes | Yes | Yes |
+| Subclass (different package) | No | No | Yes | Yes |
+| Different Package (non-subclass) | No | No | No | Yes |
