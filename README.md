@@ -106,3 +106,10 @@ Four types of primitive data types
 | Subclass (same package) | No | Yes | Yes | Yes |
 | Subclass (different package) | No | No | Yes | Yes |
 | Different Package (non-subclass) | No | No | No | Yes |
+
+| Multiprocessing | Multithreading |
+| --- | --- |
+| Each process have its own address in memory i.e. each process allocates separate memory area. | Threads share the same address space. |
+| Process is heavyweight. | Thread is lightweight. |
+| Cost of communication between the process is high. | Cost of communication between the thread is low. |
+| Context-switching require some time for saving & loading registers, memory maps, updating lists etc. | Context-switching between the threads takes less time than process. |
