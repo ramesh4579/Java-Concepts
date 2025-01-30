@@ -142,3 +142,9 @@ Four types of primitive data types
 <ul>
 <li>Anonymous inner class is used when we want to implement an interface or subclass a parent class on the fly without creating a separate class</li>
 </ul>
+
+## Java Exceptions
+
+<ul>
+<li> try with resources will close classes automatically that are implementing Autocloseable interface.</li>
+</ul>
