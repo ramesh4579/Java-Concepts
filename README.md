@@ -129,3 +129,16 @@ Four types of primitive data types
 <li> Default implementation of a function can be done using default method. You can add it to interface without breaking multiple implementation classes. </li>
 <li> this can be accessed inside default method, can be accessed using implementation class reference. </li>
 </ul>
+
+## Inner Classes
+
+<ol>
+<li> Member Inner Class</li>
+<li> Static Nested Class</li>
+<li> Local Inner Class</li>
+<li> Anonymous Inner Class</li>
+</ol>
+
+<ul>
+<li>Anonymous inner class is used when we want to implement an interface or subclass a parent class on the fly without creating a separate class</li>
+</ul>
