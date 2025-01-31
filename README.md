@@ -148,6 +148,7 @@ Four types of primitive data types
 <ul>
 <li> At compile time, Enums become final public class. Each member of the enum is the instance of the enum itself.</li>
 <li> Enums can have members and constructors and functions also.</li>
+<li> Enums inside class are inherently static.</li>
 </ul>
 
 ## Java Exceptions
