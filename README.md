@@ -160,5 +160,5 @@ Four types of primitive data types
 ## Java Multithreading
 
 <ul>
-<li> Five states of a thread: NEW, RUNNABLE, RUNNING, BLOCKED, TERMINATED</li>
+<li> Five states of a thread: NEW, RUNNABLE, RUNNING, BLOCKED/WAITING, TERMINATED</li>
 </ul>
