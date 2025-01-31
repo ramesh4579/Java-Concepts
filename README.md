@@ -143,6 +143,12 @@ Four types of primitive data types
 <li>Anonymous inner class is used when we want to implement an interface or subclass a parent class on the fly without creating a separate class</li>
 </ul>
 
+## Java Enums
+
+<ul>
+<li> At compile time, Enums become final public class. Each member of the enum is the instance of the enum itself.</li>
+</ul>
+
 ## Java Exceptions
 
 <ul>
