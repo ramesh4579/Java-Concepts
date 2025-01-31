@@ -156,3 +156,9 @@ Four types of primitive data types
 <ul>
 <li> try with resources will close classes automatically that are implementing Autocloseable interface.</li>
 </ul>
+
+## Java Multithreading
+
+<ul>
+<li> Five states of a thread: NEW, RUNNABLE, RUNNING, BLOCKED, TERMINATED</li>
+</ul>
