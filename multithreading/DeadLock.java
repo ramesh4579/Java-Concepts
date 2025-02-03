@@ -50,7 +50,10 @@ class MyTask2 implements Runnable {
     }
     @Override
     public void run() {
-        pen.writeWithPenAndPaper(paper);
+        synchronized (paper){
+            pen.writeWithPenAndPaper(paper);
+        }
+
     }
 }
 
