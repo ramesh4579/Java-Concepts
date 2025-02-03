@@ -164,3 +164,11 @@ Four types of primitive data types
 <li> Thread.yield method is used to request JVM scheduler to give chances to other threads also.  </li>
 <li> Daemon threads run in background, JVM will not wait for its execution if other threads terminates daemon thread will also terminate. </li>  
 </ul>
+
+## Syncronization
+<ul>
+<li>  <strong> Mutual exclusion: </strong> Only 1 thread is accessing the shared resource. </li>
+<li> 2 types of locks: Intrinsic and Explicit  </li>
+<li> <strong> Intrinsic:  </strong> These are built into every object in Java. When using synchronized you are using automatic locks. </li>
+<li> <strong> Explicit:  </strong> Advanced locks, can be accessed uisng Lock class. </li>
+</ul>
