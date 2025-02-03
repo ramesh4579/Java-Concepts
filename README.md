@@ -167,8 +167,11 @@ Four types of primitive data types
 
 ## Syncronization
 <ul>
-<li>  <strong> Mutual exclusion: </strong> Only 1 thread is accessing the shared resource. </li>
+<li>  <strong> Mutual exclusion: </strong> Only 1 thread is accessing the shared resource or critical code. </li>
 <li> 2 types of locks: Intrinsic and Explicit  </li>
 <li> <strong> Intrinsic:  </strong> These are built into every object in Java. When using synchronized you are using automatic locks. </li>
 <li> <strong> Explicit:  </strong> Advanced locks, can be accessed uisng Lock class. </li>
+<li> <strong> ReentrantLock: </strong>   You can re enter the lock again.</li>
+<li> Fair lock you will get resources in the order you requested.</li>
+<li> Disadvantages of synchronization: No fairness guranteed, Idefinate blocking, No interruptability functionality, no read/write segregation.</li>
 </ul>
