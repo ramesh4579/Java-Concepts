@@ -161,4 +161,5 @@ Four types of primitive data types
 
 <ul>
 <li> Five states of a thread: NEW, RUNNABLE, RUNNING, BLOCKED/WAITING, TERMINATED</li>
+<li> Thread.yield method is used to request JVM scheduler to give chances to other threads also.  </li>
 </ul>
