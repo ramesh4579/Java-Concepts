@@ -174,4 +174,9 @@ Four types of primitive data types
 <li> <strong> ReentrantLock: </strong>   You can re enter the lock again.</li>
 <li> Fair lock you will get resources in the order you requested.</li>
 <li> Disadvantages of synchronization: No fairness guranteed, Idefinate blocking, No interruptability functionality, no read/write segregation.</li>
+<li> ReentrantReadWriteLock will not lock read operations if no other thread is writing. </li>
 </ul>
+
+## DeadLock
+<ul>
+<li>  Threads are waiting idefinately on each other . </li>
