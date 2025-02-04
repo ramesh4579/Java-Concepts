@@ -184,4 +184,9 @@ Four types of primitive data types
 ## Thread Communication
 <ul>
 <li> Wait, notify and notifyAll</li>
+<li> can be called within a synchronized context.</li>
+</ul>
+
+<ul>
+  <li><strong> Functional interface: </strong> Interfaces with single abstract method.</li>
 </ul>
