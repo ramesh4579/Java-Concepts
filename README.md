@@ -188,5 +188,14 @@ Four types of primitive data types
 </ul>
 
 <ul>
-  <li><strong> Functional interface: </strong> Interfaces with single abstract method.</li>
+  <li><strong> Functional interface: </strong> Interfaces with single abstract method. </li>
+  <li><strong>Lambda expression: </strong> Anonymous function. </li>
+</ul>
+
+## Thread Pool
+<ul>
+  <li>Collection of pre-intialized threads.</li>
+  <li>Better resource management</li>
+  <li>Response time</li>
+  <li>Control over thread count</li>
 </ul>
