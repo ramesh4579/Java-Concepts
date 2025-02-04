@@ -180,3 +180,8 @@ Four types of primitive data types
 ## DeadLock
 <ul>
 <li>  Threads are waiting idefinately on each other . </li>
+
+## Thread Communication
+<ul>
+<li> Wait, notify and notifyAll</li>
+</ul>
