@@ -199,3 +199,8 @@ Four types of primitive data types
   <li>Response time</li>
   <li>Control over thread count</li>
 </ul>
+
+<ul>
+  <li><strong>CountDownLatch</strong> is used when we want to wait one or more threads to finsih execution. It cannot be reused.</li>
+  <li><strong>CyclicBarrier</strong> can be reused.</li>
+</ul>
