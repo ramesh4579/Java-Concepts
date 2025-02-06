@@ -26,7 +26,7 @@ E.g. Medicine capsule
 
 <ul>
 <li> Java is a platform independent high level and Object-Oriented Programming language. </li>
-<li> <strong> WORA </strong> : Work Once Run Anywhere. </li>
+<li> <strong> WORA </strong> : Write Once Run Anywhere. </li>
 </ul>
 
 ## Three important components of JAVA
