@@ -201,6 +201,10 @@ Four types of primitive data types
 </ul>
 
 <ul>
+  <li><strong> Volatile: </strong> No local thread cache, will be fetched from the main memory. </li>
+</ul>
+
+<ul>
   <li><strong>CountDownLatch</strong> is used when we want to wait one or more threads to finsih execution. It cannot be reused.</li>
   <li><strong>CyclicBarrier</strong> can be reused.</li>
   <li><strong>CompletableFuture</strong> to perform async tasks.</li>
