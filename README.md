@@ -213,4 +213,9 @@ Four types of primitive data types
 ## Java Generics
 <ul>
   <li>Genric types allow you to define a class, interface or method with placeholders (type parametetrs) for the data type they will work. </li>
+  <li> Java does not support generic exceptions due to type erasure. </li>
+</ul>
+
+<ul>
+  <li>StringBuffer is threadsafe but StringBuilder is not.</li>
 </ul>
