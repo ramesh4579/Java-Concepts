@@ -209,3 +209,8 @@ Four types of primitive data types
   <li><strong>CyclicBarrier</strong> can be reused.</li>
   <li><strong>CompletableFuture</strong> to perform async tasks.</li>
 </ul>
+
+## Java Generics
+<ul>
+  <li>Genric types allow you to define a class, interface or method with placeholders (type parametetrs) for the data type they will work. </li>
+</ul>
